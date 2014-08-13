@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="{{ site.description }}">
+    <meta name="author" content="Theron J Hitchman">
+    <!--<link rel="icon" href="../../favicon.ico">-->
+
+    <title>{{ site.name }}</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="{{ site.baseurl }}/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- stylesheet for pygments to work -->
+    <link href="{{ site.baseurl }}/css/pygments.css" rel="stylesheet">
+    <!-- MathJax -->
+    <script type="text/javascript"
+      src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+    </script>
+
+  </head>
+
+  <body>
+
+<!-- Fixed navbar -->
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="{{ site.baseurl }}/"><strong>TJH</strong></a>
+        </div>
+        <div class="collapse navbar-collapse">
+          <ul class="nav navbar-nav ">
+            <li><a href="{{ site.baseurl }}/about/">About</a></li>
+            <li><a href="{{ site.baseurl }}/blog/">Blog</a></li>
+            <li class="hidden-xs"><a>&bull;</a></li>
+            <li><a href="{{ site.baseurl }}/teaching/">Teaching</a></li>
+            <li><a href="{{ site.baseurl }}/scholarship/">Scholarship</a></li>
+            <li><a href="{{ site.baseurl }}/service/">Service</a></li>
+            <li class="hidden-xs"><a>&bull;</a></li>
+            <li><a href="{{site.baseurl}}/workshops/">Workshops</a></li>
+          </ul>
+          <ul class="nav navbar-nav navbar-right">
+            <li class="dropdown">
+              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Links <span class="caret"></span></a>
+              <ul class="dropdown-menu" role="menu">
+                <li class="dropdown-header">UNI sites</li>
+                <li><a href="{{site.uniurl}}">Northern Iowa</a></li>
+                <li><a href="{{site.unimathurl}}">UNI Math</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Other Web Sites</li>
+                <li><a href="{{site.blogurl}}">Circles and Tangents</a></li>
+                <li><a href="{{site.uhwurl}}">Upper Half-Wit</a></li>
+                <li><a href="{{site.githuburl}}">My GitHub Projects</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Sage Math</li>
+                <li><a href="{{site.smcurl}}">SageMathCloud</a></li>
+                <li><a href="{{site.sagecellurl}}">Single Cell Server</a></li>
+                <li class="divider"></li>
+                <li class="dropdown-header">Social Sites</li>
+                <li><a href="{{site.plusurl}}">Google Plus</a></li>
+                <li><a href="{{site.githubprofileurl}}">GitHub</a></li>
+                <li><a href="{{site.twitterurl}}">Twitter</a></li>
+              </ul>
+            </li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </div>

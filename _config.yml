@@ -1,0 +1,36 @@
+name: "Theron Hitchman"
+description: "Associate Professor of Mathematics"
+email: "theron.hitchman@uni.edu"
+
+url: "http://www.uni.edu/theron"
+baseurl: ""
+
+markdown: kramdown
+
+# link addresses
+plusurl: "https://plus.google.com/u/0/+TheronHitchman/posts"
+twitterurl: "https://twitter.com/ProfNoodlearms"
+
+githubpageurl: "http://theronhitchman.github.io"
+githubprofileurl: "http://github.com/theronhitchman"
+
+blogurl: "http://theronhitchman.wordpress.com"
+uhwurl: "http://theronhitchman.blogspot.com/"
+
+unimathurl: "http://www.uni.edu/math"
+unichasurl: "http://www.uni.edu/chas/"
+uniurl: "http://www.uni.edu"
+
+sageurl: "http://www.sagemath.org"
+smcurl: "http://cloud.sagemath.org"
+sagecellurl: "http://sagecell.sagemath.org"
+
+myemail: "theron.hitchman@uni.edu"
+
+pythonurl: "https://www.python.org/"
+aiblurl: "http://www.inquirybasedlearning.org/"
+ggburl: "http://www.geogebra.org/"
+latexurl: "http://www.latex-project.org/"
+
+giturl: "http://git-scm.com/"
+githuburl: "https://github.com/"
