@@ -2,10 +2,11 @@ name: "Theron Hitchman"
 description: "Associate Professor of Mathematics"
 email: "theron.hitchman@uni.edu"
 
-url: "http://www.uni.edu/theron"
-baseurl: ""
+url: "http://www.uni.edu"
+baseurl: "/theron"
 
 markdown: kramdown
+highlighter: pygments
 
 # link addresses
 plusurl: "https://plus.google.com/u/0/+TheronHitchman/posts"
