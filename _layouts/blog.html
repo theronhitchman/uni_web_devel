@@ -1,0 +1,27 @@
+{% include blog-header.html %}
+
+<!-- Begin page content -->
+
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-md-9">
+
+  {{ content }}
+
+    </div>
+    <div>
+      <div class="hidden-xs col-md-3">
+
+        {% include contact-sidebar.html %}
+        
+        <div class="panel panel-default">
+          <div class="panel-body">
+            <a href="{{site.baseurl}}/blog/archive.html">Blog Archive</a>
+          </div>
+        </div>
+
+        {% include links-sidebar.html %}
+      </div>
+  </div>
+
+{% include footer.html %}

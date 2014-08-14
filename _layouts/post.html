@@ -1,0 +1,46 @@
+{% include blog-header.html %}
+
+<!-- Begin page content -->
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-md-9">
+
+      <div id="page-navigation">
+        <div class="clear">&nbsp;</div>
+          <span class="left">
+            {% if page.previous.url %}
+            <a href="{{page.previous.url | prepend: site.baseurl}}" title="Previous Post:
+            {{page.previous.title}}">&laquo; {{page.previous.title}}</a>
+            {% endif %}
+          </span>
+          &bull; <span><a href="{{site.baseurl}}/blog">List of Posts</a></span> &bull;
+          <span>
+            {% if page.next.url %}
+            <a href="{{page.next.url | prepend: site.baseurl}}" title="Next Post:
+            {{page.next.title}}">{{page.next.title}} &raquo; </a>
+            {% endif %}
+          </span>
+        </div>
+
+      <div class="page-header">
+        <h2>{{ page.date | date: "%b %-d, %Y" }}: {{ page.title }}</h2>
+      </div>
+      {{ content }}
+    </div>
+  <!-- sidebar -->
+    <div class="hidden-xs col-md-3">
+
+      {% include contact-sidebar.html %}
+
+      <div class="panel panel-default">
+        <div class="panel-body">
+          <a href="{{site.baseurl}}/blog/archive.html">Blog Archive</a>
+        </div>
+      </div>
+
+      {% include links-sidebar.html %}
+    </div>
+  </div>
+</div>
+
+{% include footer.html %}
