@@ -91,7 +91,7 @@ I have taught a wide variety of courses. I think this is the complete list.
 
 ### An Award
 
-In October 2013, I was honored with the Outstanding Teaching Award by the Iowa
+In October 2013, I was honored with the Teaching Award by the Iowa
 Section of the Mathematical Association of America.
 
 [linalg]: http://theronhitchman.github.io/linear-algebra/

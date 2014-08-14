@@ -11,6 +11,9 @@ students in combinatorics on m-ary partition functions. As a post-doctoral
 instructor I also worked on a mathematical biology project.
 <hr />
 
+If you are a student interested in pursuing mathematics research, please look over
+[the list of student projects I have supervised.]({{site.baseurl}}/scholarship/student-projects.html)
+<hr />
 
 ### Rigidity for actions of Lattices
 <ul>
