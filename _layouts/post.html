@@ -9,14 +9,14 @@
         <div class="clear">&nbsp;</div>
           <span class="left">
             {% if page.previous.url %}
-            <a href="{{page.previous.url | prepend: site.baseurl}}" title="Previous Post:
+            <a class="btn btn-default" href="{{page.previous.url | prepend: site.baseurl}}" title="Previous Post:
             {{page.previous.title}}">&laquo; {{page.previous.title}}</a>
             {% endif %}
           </span>
-          &bull; <span><a href="{{site.baseurl}}/blog">List of Posts</a></span> &bull;
+          &bull; <span><a class="btn btn-default" href="{{site.baseurl}}/blog">List of Posts</a></span> &bull;
           <span>
             {% if page.next.url %}
-            <a href="{{page.next.url | prepend: site.baseurl}}" title="Next Post:
+            <a class="btn btn-default" href="{{page.next.url | prepend: site.baseurl}}" title="Next Post:
             {{page.next.title}}">{{page.next.title}} &raquo; </a>
             {% endif %}
           </span>

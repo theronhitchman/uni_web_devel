@@ -8,7 +8,8 @@ title: Theron J Hitchman
   <div class="jumbotron">
   <div class="row">
     <div class="col-xs-12">
-      <h1>Theron J Hitchman</h1>
+      <h1 class="hidden-xs">Theron J Hitchman</h1>
+      <h1 class="visible-xs">TJ Hitchman</h1>
       <p>Associate Professor of Mathematics<br>
         University of Northern Iowa</p>
       <p>My <a href="#"><i>curriculum vitae</i></a>.</p>
