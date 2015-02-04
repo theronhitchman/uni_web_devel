@@ -5,6 +5,16 @@ title: Teaching
 
 ### My Current Courses
 
+- Math 1100 Mathematics in Decision Making
+
+    Math in Decision Making is intended for a general college audience, and
+    satisfies a Liberal Arts Core requirement for graduation. (That's a _thing_.)
+    In my version of the course, we study some basic knot theory and Cantor's
+    remarkable discovery about infinity before moving on to the required probability
+    and statistics unit. I keep a [web page for the course][mdm] with lots of
+    details.
+
+<!--
 - Math 2500 Linear Algebra (sections 01 and 02)
 
     Linear algebra is the study of the geometry and algebra of lines, planes, vectors
@@ -17,6 +27,7 @@ title: Teaching
     We shall also focus on the process of making examples and generalizing from them.
 
     The course web page for linear algebra is [here][linalg].
+-->
 
 - Math 3600 Euclidean Geometry
 
@@ -24,6 +35,14 @@ title: Teaching
     mathematical work. We shall study planar geometry, but the focus is on
     developing a mathematics professional's skill set. A lot more can be found
     on the [course web page][euclidean].
+
+- Math 3630/5630 Differential Geometry
+
+    We take up the classical material on curves and surfaces in space. The main
+    idea is to use Calculus to measure how objects bend, so we end up looking at
+    lots of second derivatives. This is an advanced topics course. The
+    undergraduate and graduate versions of this course share [a web page][dg].
+
 
 
 ### Inquiry Based Learning
@@ -94,8 +113,10 @@ I have taught a wide variety of courses. I think this is the complete list.
 In October 2013, I was honored with the Teaching Award by the Iowa
 Section of the Mathematical Association of America.
 
+[mdm]: https://sites.google.com/a/uni.edu/mdm-hitchman/
 [linalg]: http://theronhitchman.github.io/linear-algebra/
 [euclidean]: http://theronhitchman.github.io/euclidean-geometry/
+[dg]: http://theronhitchman.github.io/differential-geometry/
 [sage]: {{site.sageurl}}
 [geogebra]: {{site.ggburl}}
 [aibl]: {{site.aiblurl}}
