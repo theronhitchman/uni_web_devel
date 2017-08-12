@@ -7,48 +7,51 @@ title: Collected Links
 
 ### Inquiry-Based Learning
 
- - AIBL
- - IBL SIGMAA
- - MLI
- - JIBLM
- - PRIMUS
+ - AIBL, <a href="http://www.inquirybasedlearning.org">The Academy for Inquiry Based Learning</a>
+ - IBL SIGMAA, <a href="http://sigmaa.maa.org/ibl/">The Inquiry Based Learning Special Interest Group of the MAA</a>
+ - MLI, <a href="http://www.mathlearningbyinquiry.org">The Initiative for Mathematics Learning by Inquiry</a>
+ - JIBLM, <a href="http://jiblm.org/index.php">The Journal of Inquiry Based Learning in Mathematics</a>
+ - PRIMUS, <a href="http://www.tandfonline.com/toc/upri20/current">Problems, Resources, and Issues in Mathematics Undergraduate Studies</a>
 
 ### Mathematics Stuff
 
- - MAA
-    - Project NExT
- - AMS
-    - Mathscinet
+ - MAA, <a href="https://www.maa.org">the Mathematical Association of America</a>
+    - Project NExT, the MAA's professional development program <a href="https://www.maa.org/programs/faculty-and-departments/project-next">New Experiences in Teaching</a>
+    - The <a href="http://sections.maa.org/iowa/">Iowa Section</a>
+ - AMS, <a href="">The American Mathematical Society</a>
+    - Mathscinet, <a href="">The AMS's
 
 
 ### Knot Theory
 
  - Journals
-   - JKTR
+   - <a href="http://www.worldscientific.com/worldscinet/jktr">Journal of Knot Theory and its Ramifications</a>
+ - Software
+   - <a href="http://www.knotplot.com">KnotPlot</a>
+   - <a href="https://www.math.uic.edu/t3m/SnapPy/">SnapPy</a>
  - People
-   - Adams
-   - Kauffman
-   - Henrich
-   - more...
+   - make a list?
+
 
 
 ### Software
 
- - CoCalc
- - SageMath
- - Python
- - Jupyter
- - GeoGebra
- - Desmos
+ - <a href="https://github.com">GitHub</a>
+ - <a href="https://cocalc.com">CoCalc</a>
+ - <a href="http://www.sagemath.org">SageMath</a>
+ - <a href="https://www.python.org">Python</a>
+ - <a href="http://jupyter.org">Jupyter</a>
+ - <a href="https://www.geogebra.org">GeoGebra</a>
+ - <a href="https://www.desmos.com">Desmos</a>
 
 
 ### Soccer
 
- - CVSC
- - SKC
- - SPR
- - USSoccer
- - UNI Women
+ - <a href="http://www.cedarvalleysoccerclub.org">Cedar Valley Soccer Club</a>
+ - <a href="http://www.sportingkc.com">Sporting Kansas City</a>
+ - <a href="http://www.sportingkc.com/rangers">Swope Park Rangers</a>
+ - <a href="http://www.ussoccer.com">US Soccer</a>
+ - <a href="http://unipanthers.com/index.aspx?path=wsoc">UNI Women</a>
 
 
 ### Others
