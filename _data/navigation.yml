@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "About"
+    url: /about/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Research"
+    url: /research/
+  - title: "Student Research"
+    url: /student-research/
+  - title: "Activities"
+    url: /activities/
+  - title: "Links"
+    url: /links/

@@ -1,0 +1,50 @@
+---
+layout: single
+title: Fall 2017 Begins -- New Site!
+date: 2017-08-11 17:30 +05:00
+excerpt: "The Fall semester of 2017 is about to begin, so the academic cycle renews itself."
+---
+
+The Fall semester of 2017 is about to begin, and so the academic cycle renews
+itself. It has been a while since I have updated this web page, so I thought
+it might be time for a total refresh. Everything is new, right down to the
+bones, and built with <code>jekyll</code> using the <code>minimal mistakes</code> theme. I really like this new look.
+
+I am especially proud of how the photo in the header came out. I took that one
+myself at Brecon Beacons park in Wales, UK, in the summer of 2014. That
+summer, I was part of a trio of Americans invited to
+<a href="https://www.cardiff.ac.uk">Cardiff University</a> in Wales
+to help put on a teaching workshop. (My friends <a href="https://roberttalbert.org">Robert Talbert</a> and <a href="https://dcernst.github.io">Dana Ernst</a> were the others.) I will be
+forever grateful to the organizers,
+<a href="http://www.profpaulharper.com">Paul Harper</a>
+and <a href="http://vknight.org">Vincent Knight</a> for the opportunity.
+
+This term I am teaching the following courses:
+
+ * Math 2500 Linear Algebra for Applications
+ * Math 3425/5425 Ordinary Differential Equations
+ * Math 3600 Euclidean Geometry
+
+Students can find course pages for those by clicking on the teaching link above.
+
+
+I am deep into rewriting my entire Linear Algebra course from the bottom up.
+This will be where I pour most of my "original thinking time" into teaching. I
+am excited for this. It will be a lot of work, but worth it.
+
+I will also have at least on undergraduate research student and one MA graduate
+student to advise. Those mentoring projects are what will allow me to continue
+doing research in knot theory (a branch of topology).
+
+My other projects this term are:
+
+  * Work for the <a href="http://sigmaa.maa.org/ibl/">IBL SIGMAA</a> as Past-Chair,
+  * Continuing to mentor the participants from the
+  <a href="http://www.inquirybasedlearning.org">AIBL</a> workshop
+  <a href="http://www.inquirybasedlearning.org/workshops/#/cpworkshop/">this summer in San Luis Obispo</a>,
+  * Picking up duties as the new Senior Editor of
+  <a href="http://jiblm.org">
+  Journal of Inquiry Based Learning in Mathematics</a> for modules,
+  * Chairing an ad-hoc UNI Mathematics Curriculum Revision Committee,
+  * First-year and transfer advising for math,
+  * and work on various other committees (Undergraduate Research, Recruitment and Retention, Student Outcomes Assessment, Competitions, etc)
