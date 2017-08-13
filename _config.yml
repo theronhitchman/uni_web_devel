@@ -15,12 +15,12 @@ name                     : "Theron J Hitchman"
 description              : "Associate Professor of Mathematics, University of Northern Iowa"
 url                      : "https://sites.uni.edu/theron"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : theronhitchman/uni-web-devel # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "theronhitchman/uni-web-devel" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/BreconBeacons1.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               :  false #(default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider               :  "false" #(default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "ProfNoodlearms"
+  username               : ProfNoodlearms
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Theron J Hitchman"
-  avatar           : ""/assets/images/Hitchman.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Hitchman.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Associate Professor of Mathematics<br />University of Northern Iowa"
   location         : "Cedar Falls, IA"
   email            : "theron.hitchman@uni.edu"
