@@ -5,4 +5,55 @@ author_profile: true
 title: My Teaching
 ---
 
-<p>this is the page about teaching stuff.<p>
+<h2>For Current Students</h2>
+
+This term, my formal teaching assignment is:
+
+[Linear Algebra for Applications](/la17/){: .btn .btn--large .btn--info}
+[Ordinary Differential Equations](/de17/){: .btn .btn--large .btn--warning}
+[Euclidean Geometry](/eg17/){: .btn .btn--large .btn--success}
+
+Students in those courses should follow the links in those buttons above.
+
+<h3>About Office Hours:</h3>
+Office Hours for Fall 2017 are Monday, Tuesday, Thursday, and Friday from
+3-5pm. These can get a little busy, and sometimes I have <i>other meetings</i>,
+so I like to have students book appointments
+in advance if possible. To book an appointment, use the service here:
+
+[Book an Appointment](https://theronhitchman.youcanbook.me/){: .btn .btn--large .btn--danger .text-center}
+
+<strong>Note:</strong> An appointment is NOT required. During the late
+afternoons, if I am in my office and the door is open, I welcome your visit.
+
+If the late afternoon won't work for you, please get in touch with me by email,
+and we can work something out.
+
+---
+
+<h2>Past Courses</h2>
+
+I have taught many different courses! I tried to get them all onto this list.
+
+<h3>At UNI</h3>
+
+  (Advanced) Euclidean Geometry, Geometric Transformations, (Introduction to) Modern Geometries, Mathematical Problem Solving, Differential Geometry, Differential Calculus, Integral Calculus, Introduction to Statistical Methods, The Real Number System, Dynamical Systems: Chaos Theory and Fractals, Topics in non-Euclidean Geometry, Combinatorics, Mathematics in Decision Making, Linear Algebra, Ordinary Differential Equations,
+  Topics in Topology: Knot Theory, Senior Seminar
+
+<h3>At Williams College</h3>
+
+  Linear algebra, Discrete Mathematics, Geometric ODEs
+
+<h3>At Rice University</h3>
+
+   Differential Calculus, Integral Calculus, Multivariable Calculus, Ordinary Differential Equations, Introduction to Lie Groups and Lie algebras, Introduction to Partial Differential Equations
+
+<h3>At University of Michigan</h3>
+
+  Functions Modeling Change, Differential Calculus, Integral Calculus
+
+---
+<h2>An Award</h2>
+
+In 2013, I was honored to receive the Teaching Award from the Iowa Section of
+the Mathematical Association of America.

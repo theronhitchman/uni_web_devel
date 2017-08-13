@@ -7,7 +7,7 @@ title: Collected Links
 
 ### Inquiry-Based Learning
 
- - AIBL, <a href="http://www.inquirybasedlearning.org">The Academy for Inquiry Based Learning</a>
+ - AIBL, <a href="http://www.inquirybasedlearning.org">The Academy of Inquiry Based Learning</a>
  - IBL SIGMAA, <a href="http://sigmaa.maa.org/ibl/">The Inquiry Based Learning Special Interest Group of the MAA</a>
  - MLI, <a href="http://www.mathlearningbyinquiry.org">The Initiative for Mathematics Learning by Inquiry</a>
  - JIBLM, <a href="http://jiblm.org/index.php">The Journal of Inquiry Based Learning in Mathematics</a>
