@@ -32,7 +32,7 @@ I am deep into rewriting my entire Linear Algebra course from the bottom up.
 This will be where I pour most of my "original thinking time" into teaching. I
 am excited for this. It will be a lot of work, but worth it.
 
-I will also have at least on undergraduate research student and one MA graduate
+I will also have at least one undergraduate research student and one MA graduate
 student to advise. Those mentoring projects are what will allow me to continue
 doing research in knot theory (a branch of topology).
 
