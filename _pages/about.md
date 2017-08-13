@@ -12,7 +12,7 @@ Instructor at <a href="http://math.rice.edu/">Rice University</a> for three year
 I was originally hired to teach all of the geometry classes at UNI, and I still teach fair number of them. Of course, every course in mathematics can be a geometry course, if you look at it the right way. My teaching interests include: inquiry-based learning (IBL), standards based grading, undergraduate research, and technology in the mathematics classroom.
 These days, I most often teach <i>Euclidean Geometry</i> and <i>Linear Algebra</i>, both of which have an IBL flavor to them. I have done a little bit of work on the scholarship of teaching and learning, all of it having to do with IBL.
 
-![TJH in 2013]({{site.url}}/assets/images/Hitchman.JPG){: .align-right width="200"} My
+![TJH in 2013]({{site.url}}/assets/images/Hitchman.jpg){: .align-right width="200"} My
 mathematical interests are centered around geometry and topology. In the past,
 I have worked on things like the rigidity theory for actions of lattices on
 compact manifolds (a mix of differential geometry, Lie theory, and dynamical
