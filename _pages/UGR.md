@@ -89,7 +89,7 @@ What kind of projects can I do? Can I pick my own?
 
 What kinds of projects have you supervised, Dr Hitchman?
 
-: I have <a href="/ugr-projects/">this wonderful list</a>.
+: I have <a href="{{site.baseurl}}/ugr-projects/">this wonderful list</a>.
 
 What kinds of projects do you have, now, Dr Hitchman?
 
