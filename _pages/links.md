@@ -18,8 +18,8 @@ title: Collected Links
  - MAA, <a href="https://www.maa.org">the Mathematical Association of America</a>
     - Project NExT, the MAA's professional development program <a href="https://www.maa.org/programs/faculty-and-departments/project-next">New Experiences in Teaching</a>
     - The <a href="http://sections.maa.org/iowa/">Iowa Section</a>
- - AMS, <a href="">The American Mathematical Society</a>
-    - Mathscinet, <a href="">The AMS's
+ - AMS, <a href="http://www.ams.org/home/page">The American Mathematical Society</a>
+    - Mathscinet, <a href="http://www.ams.org/mathscinet/">The AMS's indexing service for math journals.</a>
 
 
 ### Knot Theory
