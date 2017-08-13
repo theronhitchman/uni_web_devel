@@ -9,9 +9,9 @@ title: My Teaching
 
 This term, my formal teaching assignment is:
 
-[Linear Algebra for Applications]({{site.url}}/la17/){: .btn .btn--large .btn--info}
-[Ordinary Differential Equations]({{site.url}}/de17/){: .btn .btn--large .btn--warning}
-[Euclidean Geometry]({{site.url}}/eg17/){: .btn .btn--large .btn--success}
+[Linear Algebra for Applications]({{site.url}}{{site.baseurl}}/la17/){: .btn .btn--large .btn--info}
+[Ordinary Differential Equations]({{site.url}}{{site.baseurl}}/de17/){: .btn .btn--large .btn--warning}
+[Euclidean Geometry]({{site.url}}{{site.baseurl}}/eg17/){: .btn .btn--large .btn--success}
 
 Students in those courses should follow the links in those buttons above.
 
