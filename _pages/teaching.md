@@ -10,7 +10,7 @@ title: My Teaching
 This term, my formal teaching assignment is:
 
 [Linear Algebra for Applications]({{site.url}}{{site.baseurl}}/la17/){: .btn .btn--large .btn--info}
-[Ordinary Differential Equations]({{site.url}}{{site.baseurl}}/de17/){: .btn .btn--large .btn--warning}
+[Differential Equations]({{site.url}}{{site.baseurl}}/de17/){: .btn .btn--large .btn--warning}
 [Euclidean Geometry]({{site.url}}{{site.baseurl}}/eg17/){: .btn .btn--large .btn--success}
 
 Students in those courses should follow the links in those buttons above.
@@ -37,7 +37,7 @@ I have taught many different courses! I tried to get them all onto this list.
 
 <h3>At UNI</h3>
 
-  (Advanced) Euclidean Geometry, Geometric Transformations, (Introduction to) Modern Geometries, Mathematical Problem Solving, Differential Geometry, Differential Calculus, Integral Calculus, Introduction to Statistical Methods, The Real Number System, Dynamical Systems: Chaos Theory and Fractals, Topics in non-Euclidean Geometry, Combinatorics, Mathematics in Decision Making, Linear Algebra, Ordinary Differential Equations,
+  (Advanced) Euclidean Geometry, Geometric Transformations, (Introduction to) Modern Geometries, Mathematical Problem Solving, Differential Geometry, Differential Calculus, Integral Calculus, Introduction to Statistical Methods, The Real Number System, Dynamical Systems: Chaos Theory and Fractals, Topics in non-Euclidean Geometry, Combinatorics, Mathematics in Decision Making, Linear Algebra, Differential Equations,
   Topics in Topology: Knot Theory, Senior Seminar
 
 <h3>At Williams College</h3>
