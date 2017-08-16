@@ -22,7 +22,7 @@ and <a href="http://vknight.org">Vincent Knight</a> for the opportunity.
 This term I am teaching the following courses:
 
  * Math 2500 Linear Algebra for Applications
- * Math 3425/5425 Ordinary Differential Equations
+ * Math 3425/5425 Differential Equations
  * Math 3600 Euclidean Geometry
 
 Students can find course pages for those by clicking on the teaching link above.
