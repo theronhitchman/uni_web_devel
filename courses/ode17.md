@@ -5,7 +5,7 @@ author_profile: true
 title: Math 3425, Ordinary Differential Equations
 ---
 
-Welcome! This is the course web page for _Math 3600: Euclidean Geometry_. Here
+Welcome! This is the course web page for _Math 3425/5426: Differential Equations_. Here
 you will find many helpful links.
 
 [The Syllabus](https://drive.google.com/open?id=0B2t6ivhRzD_FTXg5bWE5RWZ4bUE){: .btn .btn--large .btn--inverse}
