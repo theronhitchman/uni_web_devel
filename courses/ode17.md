@@ -8,7 +8,7 @@ title: Math 3425, Ordinary Differential Equations
 Welcome! This is the course web page for _Math 3425/5425: Differential Equations_. Here
 you will find many helpful links.
 
-[The Syllabus](https://drive.google.com/open?id=0B2t6ivhRzD_FdVhxOWRnM2hCZGM){: .btn .btn--large .btn--inverse}
+[The Syllabus](https://drive.google.com/file/d/0B2t6ivhRzD_Fb0FtSVRoTV9DWUk/view?usp=sharing)){: .btn .btn--large .btn--inverse}
 [Appointments](https://theronhitchman.youcanbook.me/){: .btn .btn--large .btn--inverse}
 [CoCalc](https://cocalc.com){: .btn .btn--large .btn--inverse}
 
