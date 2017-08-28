@@ -21,7 +21,7 @@ assignment meant to be done during week N has its report due on Wednesday of
 week N+1.
 
 * [Week One: Due Wednesday, August 30](https://docs.google.com/document/d/1I7PnxWWpIEkVPRhpd7CaQ3F_EzV6Q5bxB8Kmq_gHp60/edit?usp=sharing)
-* [Week Two: Due Wednesday, 9/6]()
+* [Week Two: Due Wednesday, 9/6](https://docs.google.com/document/d/1g2mkyU9jKLiqKwtMyPCTZEDponEAYPtPmya0XuckiM0/edit?usp=sharing)
 * [Week Three: Due Wednesday, 9/13]()
 * [Week Four: Due Wednesday, 9/20]()
 * [Week Five: Due Wednesday, 9/27]()
@@ -40,7 +40,7 @@ week N+1.
 
 Here are the seven lab assignments, each of these will be done on CoCalc, and due before midnight on the day indicated.
 
-* [Lab 1: A 2-parameter family: due Friday, 9/1]()
+* [Lab 1: A 2-parameter family: due Friday, 9/1](https://docs.google.com/document/d/1BGDx5vZUoB_SHZdOs46Mtl-IqB_RNHScfVUXMkaT4-g/edit?usp=sharing)
 * [Lab 2: A 3-parameter family: due Friday, 9/22]()
 * [Lab 3: Numerical Methods 1: due Friday, 10/6]()
 * [Lab 4: Numerical Methods 2: due Friday, 10/20]()
