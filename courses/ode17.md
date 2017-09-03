@@ -22,7 +22,7 @@ week N+1.
 
 * [Week One: Due Wednesday, August 30](https://docs.google.com/document/d/1I7PnxWWpIEkVPRhpd7CaQ3F_EzV6Q5bxB8Kmq_gHp60/edit?usp=sharing)
 * [Week Two: Due Wednesday, 9/6](https://docs.google.com/document/d/1g2mkyU9jKLiqKwtMyPCTZEDponEAYPtPmya0XuckiM0/edit?usp=sharing)
-* [Week Three: Due Wednesday, 9/13]()
+* [Week Three: Due Wednesday, 9/13](https://docs.google.com/document/d/1lNB0q5tzyXzfQMNj4fVsj633iJ0WBknXWord9U1nT6Q/edit?usp=sharing)
 * [Week Four: Due Wednesday, 9/20]()
 * [Week Five: Due Wednesday, 9/27]()
 * [Week Six: Due Wednesday, 10/4]()
