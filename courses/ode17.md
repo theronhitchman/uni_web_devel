@@ -24,7 +24,7 @@ week N+1.
 * [Week Two: Due Wednesday, 9/6](https://docs.google.com/document/d/1g2mkyU9jKLiqKwtMyPCTZEDponEAYPtPmya0XuckiM0/edit?usp=sharing)
 * [Week Three: Due Wednesday, 9/13](https://docs.google.com/document/d/1lNB0q5tzyXzfQMNj4fVsj633iJ0WBknXWord9U1nT6Q/edit?usp=sharing)
 * [Week Four: Due Wednesday, 9/20](https://docs.google.com/document/d/1oXbFUWDPikqEFo5ZzCWhcmXezGJ1QgDKM9dSSaKjs4g/edit?usp=sharing)
-* [Week Five: Due Wednesday, 9/27]()
+* [Week Five: Due Wednesday, 9/27](https://docs.google.com/document/d/1rnjKEMqSIKKSUOdvRuM3ki0nEQz-dUOFbAFI6WnO_0w/edit?usp=sharing)
 * [Week Six: Due Wednesday, 10/4]()
 * [Week Seven: Due Wednesday, 10/11]()
 * [Week Eight: Due Wednesday, 10/18]()
@@ -41,7 +41,7 @@ week N+1.
 Here are the seven lab assignments, each of these will be done on CoCalc, and due before midnight on the day indicated.
 
 * [Lab 1: A 2-parameter family: due Friday, 9/1](https://docs.google.com/document/d/1BGDx5vZUoB_SHZdOs46Mtl-IqB_RNHScfVUXMkaT4-g/edit?usp=sharing)
-* [Lab 2: A 3-parameter family: due Friday, 9/22]()
+* [Lab 2: A 3-parameter family: due Friday, 9/22](https://docs.google.com/document/d/1Hf0Mk96P-qW8LqR83Z3QFHh4gnXhIRhRdGUQHn4x4WI/edit?usp=sharing)
 * [Lab 3: Numerical Methods 1: due Friday, 10/6]()
 * [Lab 4: Numerical Methods 2: due Friday, 10/20]()
 * [Lab 5: The Pendulum with Constant Forcing: due Friday, 11/3]()
