@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Theron J Hitchman"
-  avatar           : "/assets/images/Hitchman.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/Hitchman-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Associate Professor of Mathematics<br />University of Northern Iowa"
   location         : "Cedar Falls, IA"
   email            : "theron.hitchman@uni.edu"

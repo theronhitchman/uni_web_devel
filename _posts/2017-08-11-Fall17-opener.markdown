@@ -41,7 +41,7 @@ My other projects this term are:
   * Work for the <a href="http://sigmaa.maa.org/ibl/">IBL SIGMAA</a> as Past-Chair,
   * Continuing to mentor the participants from the
   <a href="http://www.inquirybasedlearning.org">AIBL</a> workshop
-  <a href="http://www.inquirybasedlearning.org/workshops/#/cpworkshop/">this summer in San Luis Obispo</a>,
+  <a href="http://www.inquirybasedlearning.org/workshopleaders/">this summer in San Luis Obispo</a>,
   * Picking up duties as the new Senior Editor of
   <a href="http://jiblm.org">
   Journal of Inquiry Based Learning in Mathematics</a> for modules,

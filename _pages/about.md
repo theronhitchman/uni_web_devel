@@ -12,7 +12,7 @@ Instructor at <a href="http://math.rice.edu/">Rice University</a> for three year
 I was originally hired to teach all of the geometry classes at UNI, and I still teach fair number of them. Of course, every course in mathematics can be a geometry course, if you look at it the right way. My teaching interests include: inquiry-based learning (IBL), standards based grading, undergraduate research, and technology in the mathematics classroom.
 These days, I most often teach <i>Euclidean Geometry</i> and <i>Linear Algebra</i>, both of which have an IBL flavor to them. I have done a little bit of work on the scholarship of teaching and learning, all of it having to do with IBL.
 
-![TJH in 2013]({{site.url}}{{site.baseurl}}/assets/images/Hitchman.jpg){: .align-right width="200"} My
+![TJH in 2013]({{site.url}}{{site.baseurl}}/assets/images/Hitchman-2.jpg){: .align-right width="200"} My
 mathematical interests are centered around geometry and topology. In the past,
 I have worked on things like the rigidity theory for actions of lattices on
 compact manifolds (a mix of differential geometry, Lie theory, and dynamical
@@ -22,11 +22,11 @@ I have worked with a lot of students in my time at UNI, both undergraduate and
 graduate, and my most recent students have all worked on questions in knot
 theory.
 
-Here is my latest <a href="{{site.url}}{{site.baseurl}}/assets/Hitchman-CV-April-2017.pdf" target="_blank"><i>Curriculum Vitae.</i></a>
+Here is my latest <a href="{{site.url}}{{site.baseurl}}/assets/Hitchman-CV-4-15-2018.pdf" target="_blank"><i>Curriculum Vitae.</i></a>
 
 Away from the math department, I can be found enjoying soccer (I used to play,
 but now I watch <a href="http://www.cedarvalleysoccerclub.org">my daughter</a>
-and <a href="https://www.sportingkc.com">Sporting Kansas City</a>), fussing over the trees I planted in my yard, drinking good tea, playing fancy board games, reading, or telling ridiculous stories with my children.
+and <a href="https://www.sportingkc.com">Sporting Kansas City</a>, and I referee locally), fussing over the trees I planted in my yard, drinking good tea, playing fancy board games, reading, or telling ridiculous stories with my children.
 
 
 

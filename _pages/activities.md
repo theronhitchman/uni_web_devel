@@ -21,8 +21,11 @@ I have an active service role, with a focus on departmental service, and nationa
   * Program Committee for the 2016 Inquiry Based Learning Meeting
   * Member of the Academy of Inquiry Based Learning, service as a mentor for those new to IBL. 2014-present
   * PRODUCT grant IBL Workshop Developer, Feb 2017-present
-  * Founding Chair of the MAA IBL SIGMAA, now Past-Chair. 2015-present
+  * Founding Chair of the MAA IBL SIGMAA, then Past-Chair. 2015-2017
   * Senior Editor of Journal of Inquiry Based Learning in Mathematics, Spring 2017-present
+
+- Conference Board of the Mathematical Sciences
+  * Steering Committee for the 2020 CBMS survey of undergraduate programs in the mathematical sciences
 
 #### Service to the profession in Iowa
 
@@ -43,6 +46,7 @@ I have an active service role, with a focus on departmental service, and nationa
 - Student Outcomes Assessment Committee (Fall 2016-present)
 - Math Program Curriculum Committee, Chair (Fall 2017-present)
 - Freshman, Transfer, & Orientation Advising (Fall 2007-present)
+- Professional Assessment Committee subPAC (Fall 2016-present)
 
 ### College Service
 

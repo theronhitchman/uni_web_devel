@@ -9,14 +9,14 @@ title: My Teaching
 
 This term, my formal teaching assignment is:
 
-[Linear Algebra for Applications]({{site.url}}{{site.baseurl}}/la17/){: .btn .btn--large .btn--info}
-[Differential Equations]({{site.url}}{{site.baseurl}}/de17/){: .btn .btn--large .btn--warning}
-[Euclidean Geometry]({{site.url}}{{site.baseurl}}/eg17/){: .btn .btn--large .btn--success}
+[Linear Algebra for Applications]({{site.url}}{{site.baseurl}}/la18f/){: .btn .btn--large .btn--info}
+[Differential Equations]({{site.url}}{{site.baseurl}}/de18f/){: .btn .btn--large .btn--warning}
+[Euclidean Geometry]({{site.url}}{{site.baseurl}}/eg18f/){: .btn .btn--large .btn--success}
 
 Students in those courses should follow the links in those buttons above.
 
 <h3>About Office Hours:</h3>
-Office Hours for Fall 2017 are Monday, Tuesday, Thursday, and Friday from
+Office Hours for Fall 2018 are Monday, Tuesday, Thursday, and Friday from
 3-5pm. These can get a little busy, and sometimes I have <i>other meetings</i>,
 so I like to have students book appointments
 in advance if possible. To book an appointment, use the service here:
@@ -38,7 +38,7 @@ I have taught many different courses! I tried to get them all onto this list.
 <h3>At UNI</h3>
 
   (Advanced) Euclidean Geometry, Geometric Transformations, (Introduction to) Modern Geometries, Mathematical Problem Solving, Differential Geometry, Differential Calculus, Integral Calculus, Introduction to Statistical Methods, The Real Number System, Dynamical Systems: Chaos Theory and Fractals, Topics in non-Euclidean Geometry, Combinatorics, Mathematics in Decision Making, Linear Algebra, Differential Equations,
-  Topics in Topology: Knot Theory, Senior Seminar
+  Topics in Topology: Knot Theory, Senior Seminar, Partial Differential Equations
 
 <h3>At Williams College</h3>
 

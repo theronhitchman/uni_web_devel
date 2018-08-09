@@ -1,0 +1,35 @@
+---
+layout: single
+title: Fall 2018 Begins
+date: 2018-08-09 12:30 +05:00
+excerpt: "It's high summer in Cedar Falls, Iowa. You know what that means: Fall Semester is about here!"
+---
+It's high summer in Cedar Falls, Iowa. You know what that means: Fall Semester is about here! Okay, sure, the term starts in summer and ends just as winter officially begins, so I suppose the name is apt. But don't get me started on "Spring Semester."
+
+I've started refreshing the site here. In a way that I failed to do last December. Fortunately, that means some things are easy to update, as I am teaching the same courses this fall as I did last:
+
+ * Math 2500 Linear Algebra for Applications
+ * Math 3425/5425 Differential Equations
+ * Math 3600 Euclidean Geometry
+
+Students can find course pages for those by clicking on the teaching link above.
+
+Geometry and Differential Equations are going to run much the same way as last time. But I am still thinking hard about Linear Algebra, and this will be where I pour most of my "original thinking time" into teaching.
+
+I will also have at least one undergraduate research student and one MA graduate
+student to advise. Those mentoring projects are what will allow me to continue
+doing research in knot theory (a branch of topology).
+
+I might also do a little writing about pedagogy this term. 
+
+My other projects this term are:
+
+  * Continuing to mentor the participants from the
+  <a href="http://www.inquirybasedlearning.org">AIBL</a> workshop
+  <a href="http://www.inquirybasedlearning.org/workshopleaders/">this summer in Los Angeles</a>,
+  * Continuing up duties as the new Senior Editor of
+  <a href="http://jiblm.org">
+  Journal of Inquiry Based Learning in Mathematics</a> for modules,
+  * Chairing an ad-hoc UNI Mathematics Curriculum Revision Committee,
+  * First-year and transfer advising for math,
+  * and work on various other committees (Undergraduate Research, Recruitment and Retention, Student Outcomes Assessment, Competitions, etc)

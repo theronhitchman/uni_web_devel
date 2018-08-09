@@ -8,6 +8,7 @@ title: Collected Links
 ### Inquiry-Based Learning
 
  - AIBL, <a href="http://www.inquirybasedlearning.org">The Academy of Inquiry Based Learning</a>
+ - PRODUCT workshops, <a href="http://www.inquirybasedlearning.org/product-workshops/">an NSF sponsored program</a>
  - IBL SIGMAA, <a href="http://sigmaa.maa.org/ibl/">The Inquiry Based Learning Special Interest Group of the MAA</a>
  - MLI, <a href="http://www.mathlearningbyinquiry.org">The Initiative for Mathematics Learning by Inquiry</a>
  - JIBLM, <a href="http://jiblm.org/index.php">The Journal of Inquiry Based Learning in Mathematics</a>
@@ -29,8 +30,6 @@ title: Collected Links
  - Software
    - <a href="http://www.knotplot.com">KnotPlot</a>
    - <a href="https://www.math.uic.edu/t3m/SnapPy/">SnapPy</a>
- - People
-   - make a list?
 
 
 
@@ -52,6 +51,3 @@ title: Collected Links
  - <a href="http://www.sportingkc.com/rangers">Swope Park Rangers</a>
  - <a href="http://www.ussoccer.com">US Soccer</a>
  - <a href="http://unipanthers.com/index.aspx?path=wsoc">UNI Women</a>
-
-
-### Others
