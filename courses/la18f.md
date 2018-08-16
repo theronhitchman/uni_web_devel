@@ -2,13 +2,16 @@
 layout: single
 permalink: /la18f/
 author_profile: true
-title: Math 2500, Linear Algebra, section 01
+title: Math 2500, Linear Algebra, section 02
 ---
 
-Welcome! This is the course web page for Dr Hitchman's section (01) of
+Welcome! This is the course web page for Dr Hitchman's section (02) of
 _Math 2500: Linear Algebra for Applications_. Here you will find many links
 to resources for class.
 
+This is still under construction. Updates coming soon! (TJH 8-15-2018)
+
+<!--
 [The Syllabus](https://drive.google.com/open?id=0B2t6ivhRzD_FMllobzI3NW4yNXc){: .btn .btn--large .btn--info}
 [Appointments](https://theronhitchman.youcanbook.me/){: .btn .btn--large .btn--info}
 
@@ -25,10 +28,8 @@ to resources for class.
 [Cahier des Lignes -- our workbook]({{site.url}}{{site.baseurl}}/assets/cahier-main.pdf){: .btn .btn--large .btn--info}
 
 
-### Information about Peer Grading for Lab Assignments
-
-[How to Mark Lab Assignments: A Rubric](#){: .btn .btn--large .btn--info}
 
 ### An interesting series of YouTube Videos to Watch
 
 [The Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab){: .btn .btn--large .btn--info}
+-->
