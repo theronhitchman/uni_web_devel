@@ -6,15 +6,18 @@ title: Math 2500, Linear Algebra, section 02
 ---
 
 Welcome! This is the course web page for Dr Hitchman's section (02) of
-_Math 2500: Linear Algebra for Applications_. Here you will find many links
-to resources for class.
+_Math 2500: Linear Algebra for Applications_.
 
-This is still under construction. Updates coming soon! (TJH 8-15-2018)
-
-<!--
-[The Syllabus](https://drive.google.com/open?id=0B2t6ivhRzD_FMllobzI3NW4yNXc){: .btn .btn--large .btn--info}
+[The Syllabus](https://drive.google.com/open?id=1qrJbxdG_cy0XnmE4CuL_TuSIGt88VZEUrH32qdv6Aik){: .btn .btn--large .btn--info}
 [Appointments](https://theronhitchman.youcanbook.me/){: .btn .btn--large .btn--info}
 
+I'll add more as it becomes useful.
+
+### An interesting series of YouTube Videos to Watch
+
+[The Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab){: .btn .btn--large .btn--info}
+
+<!--
 ### Tech Links:
 
 [CoCalc](https://cocalc.com){: .btn .btn--large .btn--info}
@@ -29,7 +32,5 @@ This is still under construction. Updates coming soon! (TJH 8-15-2018)
 
 
 
-### An interesting series of YouTube Videos to Watch
 
-[The Essence of Linear Algebra by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab){: .btn .btn--large .btn--info}
 -->
