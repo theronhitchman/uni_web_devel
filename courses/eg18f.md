@@ -84,9 +84,9 @@ And at some point you will referee another's paper. Then you will need this:
 
 #### Published Issues, Vol 18F
 
-None, yet.
+
+[Issue 1]({{site.url}}{{site.baseurl}}/assets/TEG-18F-1.pdf){: .btn .btn--large}
 <!--
-[Issue 1]({{site.url}}{{site.baseurl}}/assets/TEG-17F-1.pdf){: .btn .btn--large}
 [Issue 2]({{site.url}}{{site.baseurl}}/assets/TEG-17F-2.pdf){: .btn .btn--large}
 [Issue 3]({{site.url}}{{site.baseurl}}/assets/TEG-17F-3.pdf){: .btn .btn--large}
 [Issue 4]({{site.url}}{{site.baseurl}}/assets/TEG-17F-4.pdf){: .btn .btn--large}
