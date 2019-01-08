@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Spring 2019
-date: 2018-01-08 12:30 +05:00
+date: 2019-01-08 12:30 +05:00
 excerpt: "New Year, New Term!"
 ---
 
