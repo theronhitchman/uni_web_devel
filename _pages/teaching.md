@@ -9,9 +9,8 @@ title: My Teaching
 
 This term, my formal teaching assignment is:
 
-[Linear Algebra for Applications]({{site.url}}{{site.baseurl}}/la18f/){: .btn .btn--large .btn--info}
-[Differential Equations]({{site.url}}{{site.baseurl}}/de18f/){: .btn .btn--large .btn--warning}
-[Euclidean Geometry]({{site.url}}{{site.baseurl}}/eg18f/){: .btn .btn--large .btn--success}
+[Euclidean Geometry]({{site.url}}{{site.baseurl}}/eg19s/){: .btn .btn--large .btn--success}
+[Differential Geometry]({{site.url}}{{site.baseurl}}/dg19s/){: .btn .btn--large .btn--warning}
 
 Students in those courses should follow the links in those buttons above.
 
