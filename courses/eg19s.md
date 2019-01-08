@@ -8,7 +8,7 @@ title: Math 3600/5600, Euclidean Geometry
 Welcome! This is the course web page for _Math 3600: Euclidean Geometry_. Here
 you will find many helpful links.
 
-[The Syllabus](https://docs.google.com/document/d/1nbwzvyO6m_7-eQ1NHeNCqYLZuX0H-_dCD260sdTC7sM/edit?usp=sharing){: .btn .btn--large}
+[The Syllabus](https://docs.google.com/document/d/1AebXE-hiwgF8M8envpTXuO8cH5lac9jxmCvq9wPSZT0/edit?usp=sharing){: .btn .btn--large}
 [Appointments](https://theronhitchman.youcanbook.me/){: .btn .btn--large}
 [GeoGebra](https://www.geogebra.org/){: .btn .btn--large}
 
