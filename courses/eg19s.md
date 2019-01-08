@@ -5,7 +5,7 @@ author_profile: true
 title: Math 3600/5600, Euclidean Geometry
 ---
 
-Welcome! This is the course web page for _Math 3600: Euclidean Geometry_. Here
+Welcome! This is the course web page for _Math 3600/5600: Euclidean Geometry_. Here
 you will find many helpful links.
 
 [The Syllabus](https://docs.google.com/document/d/1AebXE-hiwgF8M8envpTXuO8cH5lac9jxmCvq9wPSZT0/edit?usp=sharing){: .btn .btn--large}
@@ -23,11 +23,11 @@ you will find many helpful links.
 
 ### Course Materials
 
-[Class Conjectures, 2018 Fall](https://docs.google.com/document/d/17Jip5ClhVnXmehqPXjd3vH8tMsk77FPqMi5fm1JY5og/edit?usp=sharing){: .btn .btn--large}
+[Class Conjectures, 2019 Spring](https://docs.google.com/document/d/1VKXzX-eTxJNr_9xpVCJ20HEtthUYoow72AFApGwptfY/edit?usp=sharing){: .btn .btn--large}
 
 ----
 
-[1. The Rhombus](https://drive.google.com/open?id=0B2t6ivhRzD_FQ21xU0VuenFJRUU){: .btn .btn--large}
+[1. The Rhombus]({{site.url}}{{site.baseurl}}/assets/EG_main01.pdf){: .btn .btn--large}
 
 <!--
 [2. The Kite](https://drive.google.com/open?id=0B2t6ivhRzD_FZVRWVVBsUkpNRmM){: .btn .btn--large}
@@ -52,11 +52,18 @@ you will find many helpful links.
 [17. Centers, II](https://drive.google.com/open?id=0B2t6ivhRzD_FVm5nY1lKeU0yVFE){: .btn .btn--large}
 [18. The Nine-point Circle](https://drive.google.com/open?id=0B2t6ivhRzD_FRjZFVlJHOGFKLUU){: .btn .btn--large}
 [19. Extra Theorems](https://drive.google.com/open?id=0B2t6ivhRzD_FZkFyNWk4cWViVms){: .btn .btn--large}
-[Supplement: Trigonometry](https://drive.google.com/open?id=0B2t6ivhRzD_FRF9BR1VoUnU1a2M){: .btn .btn--large}
+
 
 [The Whole Thing as a Bundle](https://drive.google.com/open?id=0B2t6ivhRzD_FUVl4dDBsYURXeFU){: .btn .btn--large .btn--danger}
 
 -->
+
+#### For Graduate Students:
+
+[Supplement: Trigonometry (pdf)]({{site.url}}{{site.baseurl}}/assets/Trigonometry.pdf){: .btn .btn--large}
+
+[Supplement: Trigonometry (LaTeX)]({{site.url}}{{site.baseurl}}/assets/Trigonometry.tex){: .btn .btn--large}
+
 ----
 ----
 
