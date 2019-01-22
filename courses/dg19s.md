@@ -25,7 +25,7 @@ using Overleaf.com.
 
 ["Best Two" Rubric](https://docs.google.com/document/d/17RABycNuc9AzKieV_WtfwvOHH1h7EIyutrqEbOyu7DE/edit?usp=sharing){: .btn .btn--large}
 [Overleaf.com](https://www.overleaf.com/){: .btn .btn--large}
-["Best Two" Template]({}{site.url}}{{site.baseurl}}/assets/BestTwoTemplate.tex)
+["Best Two" Template]({}{site.url}}{{site.baseurl}}/assets/BestTwoTemplate.tex){: .btn .btn--large}
 
 The Homework Assignments So far, newest first:
 
