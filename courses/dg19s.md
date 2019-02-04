@@ -29,9 +29,10 @@ using Overleaf.com.
 
 The Homework Assignments So far, newest first:
 
-  * [Week One]({{site.url}}{{site.baseurl}}/assets/dg19-homework1.pdf) Due Wednesday January 23
-  * [Week Two]({{site.url}}{{site.baseurl}}/assets/dg19-homework2.pdf) Due Monday January 28
+  * [Week Four]({{site.url}}{{site.baserurl}}/assets/dg-homework4.pdf) Due Friday Feb 08
   * [Week Three]({{site.url}}{{site.baseurl}}/assets/dg19-homework3.pdf) Due Friday Feb 01
+  * [Week Two]({{site.url}}{{site.baseurl}}/assets/dg19-homework2.pdf) Due Monday January 28
+  * [Week One]({{site.url}}{{site.baseurl}}/assets/dg19-homework1.pdf) Due Wednesday January 23
 
 ## Projects
 
