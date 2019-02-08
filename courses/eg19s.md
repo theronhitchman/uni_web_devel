@@ -29,6 +29,7 @@ you will find many helpful links.
 
 [1. The Rhombus]({{site.url}}{{site.baseurl}}/assets/EG_main01.pdf){: .btn .btn--large}
 [2. The Kite]({{site.url}}{{site.baseurl}}/assets/EG_main02.pdf){: .btn .btn--large}
+[3. The Rectangle]({{site.url}}{{site.baseurl}}/assets/EG_main03.pdf){: .btn .btn--large}
 
 <!--
 
