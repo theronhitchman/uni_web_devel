@@ -29,6 +29,7 @@ using Overleaf.com.
 
 The Homework Assignments So far, newest first:
 
+  * [Week Seven]({{site.url}}{{site.baserurl}}/assets/dg19-homework5.pdf) Due Monday Mar 4
   * [Week Five]({{site.url}}{{site.baserurl}}/assets/dg19-homework5.pdf) Due Friday Feb 15
   * [Week Four]({{site.url}}{{site.baserurl}}/assets/dg19-homework4.pdf) Due Friday Feb 08
   * [Week Three]({{site.url}}{{site.baseurl}}/assets/dg19-homework3.pdf) Due Friday Feb 01
@@ -46,4 +47,4 @@ We have lots of possible projects, each can be delivered as a written paper or a
 
 ## Exams
 
-Info about exams will go here.
+ * [Exam One]({{site.url}}{{site.baseurl}}/assets/dg-exam1.pdf) A take-home exam, due Friday February 22 by 5pm.
