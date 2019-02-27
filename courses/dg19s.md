@@ -29,7 +29,7 @@ using Overleaf.com.
 
 The Homework Assignments So far, newest first:
 
-  * [Week Seven]({{site.url}}{{site.baserurl}}/assets/dg19-homework5.pdf) Due Monday Mar 4
+  * [Week Seven]({{site.url}}{{site.baserurl}}/assets/dg19-homework6.pdf) Due Monday Mar 4
   * [Week Five]({{site.url}}{{site.baserurl}}/assets/dg19-homework5.pdf) Due Friday Feb 15
   * [Week Four]({{site.url}}{{site.baserurl}}/assets/dg19-homework4.pdf) Due Friday Feb 08
   * [Week Three]({{site.url}}{{site.baseurl}}/assets/dg19-homework3.pdf) Due Friday Feb 01
