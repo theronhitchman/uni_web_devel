@@ -32,10 +32,11 @@ you will find many helpful links.
 [3. The Rectangle]({{site.url}}{{site.baseurl}}/assets/EG_main03.pdf){: .btn .btn--large}
 [4. Skepticism]({{site.url}}{{site.baseurl}}/assets/EG_main04.pdf){: .btn .btn--large}
 [5. Polygons]({{site.url}}{{site.baseurl}}/assets/EG_main05.pdf){: .btn .btn--large}
+[6. Regularity, I]({{site.url}}{{site.baseurl}}/assets/EG_main06.pdf){: .btn .btn--large}
 
 <!--
 
-[6. Regularity, I](https://drive.google.com/open?id=0B2t6ivhRzD_FV21iUkpyTDEydFk){: .btn .btn--large}
+
 [7. Triangles](https://drive.google.com/open?id=0B2t6ivhRzD_FQVlYb2dRU0FoR00){: .btn .btn--large}
 [8. Centers, I](https://drive.google.com/open?id=0B2t6ivhRzD_FZXBuT3YtaXY2V0U){: .btn .btn--large}
 
