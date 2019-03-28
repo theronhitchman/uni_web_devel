@@ -28,6 +28,7 @@ using Overleaf.com.
 ["Best Two" Template]({{site.url}}{{site.baseurl}}/assets/BestTwoTemplate.tex){: .btn .btn--large}
 
 The Homework Assignments So far, newest first:
+  * [Week Twelve]({{site.url}}{{site.baseurl}}/assets/dg-homework9.pdf) Due Monday April 8
   * [Week Ten]({{site.url}}{{site.baseurl}}/assets/dg19-homework8.pdf) Due Wednesday Mar 27
   * [Week Eight]({{site.url}}{{site.baseurl}}/assets/dg19-homework7.pdf) Due Monday Mar 11
   * [Week Seven]({{site.url}}{{site.baserurl}}/assets/dg19-homework6.pdf) Due Monday Mar 4
