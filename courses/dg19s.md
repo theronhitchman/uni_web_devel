@@ -50,3 +50,4 @@ We have lots of possible projects, each can be delivered as a written paper or a
 ## Exams
 
  * [Exam One]({{site.url}}{{site.baseurl}}/assets/dg-exam1.pdf) A take-home exam, due Friday February 22 by 5pm.
+ * [Exam Two]({{site.url}}{{site.baseurl}}/assets/ExamTwo.pdf) A take-home exam, due Monday April 8 by 4:30pm.
