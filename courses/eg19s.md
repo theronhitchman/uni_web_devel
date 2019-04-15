@@ -37,13 +37,11 @@ you will find many helpful links.
 [8. Centers, I]({{site.url}}{{site.baseurl}}/assets/EG_main08.pdf){: .btn .btn--large}
 [9. Circles, I]({{site.url}}{{site.baseurl}}/assets/EG_main09.pdf){: .btn .btn--large}
 [10. Circles, II]({{site.url}}{{site.baseurl}}/assets/EG_main10.pdf){: .btn .btn--large}
+[11. Golf?]({{site.url}}{{site.baseurl}}/assets/EG_main11.pdf){: .btn .btn--large}
+[12. Golf!]({{site.url}}{{site.baseurl}}/assets/EG_main12.pdf){: .btn .btn--large}
+
 
 <!--
-
-
-[11. Golf?](https://drive.google.com/open?id=0B2t6ivhRzD_FeEU2TVFrRGxLN2s){: .btn .btn--large}
-[12. Golf!](https://drive.google.com/open?id=0B2t6ivhRzD_FQW04VWZYM0gwNDg){: .btn .btn--large}
-
 [13. Area, I](https://drive.google.com/open?id=0B2t6ivhRzD_Fa3hCVWc2Z0FIYWM){: .btn .btn--large}
 [14. Area, II](https://drive.google.com/open?id=0B2t6ivhRzD_FR1JCb2c4Rl8wZlE){: .btn .btn--large}
 [15. Regularity, II](https://drive.google.com/open?id=0B2t6ivhRzD_FUVg1bTVyTG5PQ0U){: .btn .btn--large}
