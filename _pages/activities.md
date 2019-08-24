@@ -12,6 +12,7 @@ I have an active service role, with a focus on departmental service, and nationa
 #### Service to the profession across the nation
 
 - Mathematical Association of America
+  * Iowa Section Representative to the Mathematical Association of America Congress (July 1, 2019 - present)
   * Mathematical Association of America Committee on Undergraduate Student Activities and Chapters (Feb 1, 2012- Jan 31, 2018) [co-organizer of the student paper presentations at MathFest]
   * Student Paper Session Judge at MathFest (Portland, Oregon, 2009, and Lexington, Kentucky, 2011)
   * Project NExT Mentor for class of 2013-2014

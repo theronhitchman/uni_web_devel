@@ -9,18 +9,15 @@ title: My Teaching
 
 This term, my formal teaching assignment is:
 
-[Euclidean Geometry]({{site.url}}{{site.baseurl}}/eg19s/){: .btn .btn--large .btn--success}
-[Differential Geometry]({{site.url}}{{site.baseurl}}/dg19s/){: .btn .btn--large .btn--warning}
+[Linear Algebra]({{site.url}}{{site.baseurl}}/la19f/){: .btn .btn--large .btn--success}
+[Differential Equations]({{site.url}}{{site.baseurl}}/ode19f/){: .btn .btn--large .btn--warning}
+[Studies in Polynomials and Surfaces]({{site.url}}{{site.baseurl}}/ps19f/){: .btn .btn--large .btn--primary}
 
 Students in those courses should follow the links in those buttons above.
 
 <h3>About Office Hours:</h3>
-Office Hours for Fall 2018 are Monday, Tuesday, Thursday, and Friday from
-3-5pm. These can get a little busy, and sometimes I have <i>other meetings</i>,
-so I like to have students book appointments
-in advance if possible. To book an appointment, use the service here:
-
-[Book an Appointment](https://theronhitchman.youcanbook.me/){: .btn .btn--large .btn--danger .text-center}
+Office Hours for Fall 2019 are Monday, Tuesday, Thursday, and Friday from
+3-4:30pm.
 
 <strong>Note:</strong> An appointment is NOT required. During the late
 afternoons, if I am in my office and the door is open, I welcome your visit.

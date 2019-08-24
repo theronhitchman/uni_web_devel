@@ -1,0 +1,37 @@
+---
+layout: single
+title: Fall 2019
+date: 2019-08-23 20:30 +05:00
+excerpt: "Challenges Ahead!"
+---
+
+My office is a disaster! I have made such a mess over the summer that I am going
+to have to spend significant time during the first week of classes making it
+suitable for visitors.
+
+This term I have three courses to teach:
+
+ * Math 2500 Linear Algebra
+ * Math 3425/5425 Differential Equations
+ * Math 6282 Studies in Polynomials and Surfaces
+
+I will also continue to mentor my MA graduate student, and I will start a new
+project with a new undergraduate student. Those mentoring projects are what
+will allow me to continue doing research in knot theory (a branch of topology).
+
+I have a lot of service commitments to work on this term, as many initiatives
+across the University and in my Department have
+'get this done immediately'-style deadlines and will require my attention.
+
+My other projects this term are:
+
+  * Continuing to mentor the participants from the
+  <a href="http://www.inquirybasedlearning.org">AIBL</a> workshop
+  <a href="http://www.inquirybasedlearning.org/workshopleaders/">this past summer in St Paul</a>,
+  * Continuing duties as the new Senior Editor of
+  <a href="http://jiblm.org">
+  Journal of Inquiry Based Learning in Mathematics</a> for modules,
+  * Serving as the Iowa Section Representative to the MAA Congress,
+  * Chairing the UNI Mathematics Committee (overseeing curriculum matters),
+  * First-year and transfer advising for math,
+  * and work on various other committees (Undergraduate Research, Recruitment and Retention, Student Outcomes Assessment, Competitions, etc)
