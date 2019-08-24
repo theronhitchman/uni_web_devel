@@ -10,7 +10,7 @@ title: My Teaching
 This term, my formal teaching assignment is:
 
 [Linear Algebra]({{site.url}}{{site.baseurl}}/la19f/){: .btn .btn--large .btn--success}
-[Differential Equations]({{site.url}}{{site.baseurl}}/ode19f/){: .btn .btn--large .btn--warning}
+[Differential Equations]({{site.url}}{{site.baseurl}}/de19f/){: .btn .btn--large .btn--warning}
 [Studies in Polynomials and Surfaces]({{site.url}}{{site.baseurl}}/ps19f/){: .btn .btn--large .btn--primary}
 
 Students in those courses should follow the links in those buttons above.
