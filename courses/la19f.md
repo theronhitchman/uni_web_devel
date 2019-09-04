@@ -8,7 +8,7 @@ title: Math 2500, Linear Algebra, section 02
 Welcome! This is the course web page for Dr Hitchman's section (02) of
 _Math 2500: Linear Algebra for Applications_, during Fall 2019.
 
-[The Syllabus](https://docs.google.com/document/d/1tAGZvsffPKpY6SxlaAxaCj-85ADvparQBlzfwj5Voto/edit?usp=sharing){: .btn .btn--large .btn--info}
+[The Syllabus](https://drive.google.com/file/d/131bW3pD5whq-1V9vz5GnKwYdrlBNo4bL/view?usp=sharing){: .btn .btn--large .btn--info}
 <!--[Appointments](https://theronhitchman.youcanbook.me/){: .btn .btn--large .btn--info}-->
 
 You can find resources and assignments in this shared Google Drive folder.
