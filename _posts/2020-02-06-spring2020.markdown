@@ -1,0 +1,22 @@
+---
+layout: single
+title: Spring 2020
+date: 2020-02-06 18:30 +05:00
+excerpt: "The White Rabbit Says, I'm Late!"
+---
+
+I am late putting up this post. I guess that is just the way of things: web pages are hard to maintain in a timely fashion without a lot of effort.
+
+This term I have three courses to teach:
+
+ * Math 2500 Linear Algebra
+ * Math 3410/5410 Dynamical systems
+ * Math 3600/5600 Euclidean Geometry.
+
+I have somewhere between two and four students I am mentoring in research,
+depending on you you count.
+
+All of that service stuff is continuing, too. And I think I'll be helping with
+some more IBL workshops throughout the spring and into the summer.
+
+And later this term, I plan on starting to referee high school soccer games! I am gonna have to get fit!

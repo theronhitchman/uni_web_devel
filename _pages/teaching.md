@@ -9,15 +9,15 @@ title: My Teaching
 
 This term, my formal teaching assignment is:
 
-[Linear Algebra]({{site.url}}{{site.baseurl}}/la19f/){: .btn .btn--large .btn--success}
-[Differential Equations]({{site.url}}{{site.baseurl}}/de19f/){: .btn .btn--large .btn--warning}
-[Studies in Polynomials and Surfaces]({{site.url}}{{site.baseurl}}/ps19f/){: .btn .btn--large .btn--primary}
+[Linear Algebra](https://drive.google.com/open?id=1sofC-Lk7dxFwHJh94J9-5zadkhufP_f5){: .btn .btn--large .btn--success}
+[Dynamical Systems](https://drive.google.com/open?id=116tkMk_ROhJc6bcb28pQikhw5h7QrPOE){: .btn .btn--large .btn--warning}
+[Euclidean Geometry](https://drive.google.com/open?id=1vpnEwqzP5eLcdqM9fOhV8pllXV0uV7zk){: .btn .btn--large .btn--primary}
 
 Students in those courses should follow the links in those buttons above.
 
 <h3>About Office Hours:</h3>
-Office Hours for Fall 2019 are Monday, Tuesday, Thursday, and Friday from
-3-4:30pm.
+Office Hours for Fall 2019 are Monday, Tuesday, Thursday from
+3-4:30pm, and Friday 3-4pm.
 
 <strong>Note:</strong> An appointment is NOT required. During the late
 afternoons, if I am in my office and the door is open, I welcome your visit.
@@ -34,7 +34,7 @@ I have taught many different courses! I tried to get them all onto this list.
 <h3>At UNI</h3>
 
   (Advanced) Euclidean Geometry, Geometric Transformations, (Introduction to) Modern Geometries, Mathematical Problem Solving, Differential Geometry, Differential Calculus, Integral Calculus, Introduction to Statistical Methods, The Real Number System, Dynamical Systems: Chaos Theory and Fractals, Topics in non-Euclidean Geometry, Combinatorics, Mathematics in Decision Making, Linear Algebra, Differential Equations,
-  Topics in Topology: Knot Theory, Senior Seminar, Partial Differential Equations
+  Topics in Topology: Knot Theory, Senior Seminar, Partial Differential Equations, Studies in Polynomials and Surfaces (experimental)
 
 <h3>At Williams College</h3>
 
