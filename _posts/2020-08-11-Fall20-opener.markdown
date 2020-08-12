@@ -1,0 +1,19 @@
+---
+layout: single
+title: Fall 2020
+date: 2020-08-11 21:30 +05:00
+excerpt: "Hoping for the best."
+---
+
+This promises to be a challenging semester. Hang on: stay safe and hope for the best.
+
+I am assigned these courses this term:
+
+  * Math 1100: Math in Decision Making, sections 01 and 02
+  * Math 3600: Euclidean Geometry
+
+Now, that first course, is an odd one, as it is going to be a _hybrid_
+course. Mostly online, with some traditional in-class meetings. Things
+are still unsettled to a large degree, so students should watch for a
+note from me in the week before the semester starts with a link to a
+short orientation video.

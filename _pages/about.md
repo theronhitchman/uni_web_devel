@@ -17,7 +17,7 @@ mathematical interests are centered around geometry and topology. In the past,
 I have worked on things like the rigidity theory for actions of lattices on
 compact manifolds (a mix of differential geometry, Lie theory, and dynamical
 systems) and some mathematical biology. These days, I like to think about knot
-theory and related questions in 2- and 3-dimensional topology.
+theory and related questions in 2- and 3-dimensional geometry and topology.
 I have worked with a lot of students in my time at UNI, both undergraduate and
 graduate, and my most recent students have all worked on questions in knot
 theory.

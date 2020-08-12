@@ -9,13 +9,19 @@ title: My Teaching
 
 This term, my formal teaching assignment is:
 
-[Linear Algebra](https://drive.google.com/open?id=1sofC-Lk7dxFwHJh94J9-5zadkhufP_f5){: .btn .btn--large .btn--success}
-[Dynamical Systems](https://drive.google.com/open?id=116tkMk_ROhJc6bcb28pQikhw5h7QrPOE){: .btn .btn--large .btn--warning}
-[Euclidean Geometry](https://drive.google.com/open?id=1vpnEwqzP5eLcdqM9fOhV8pllXV0uV7zk){: .btn .btn--large .btn--primary}
+[Math in Decision Making](https://euphemismsabound.blogspot.com/){: .btn .btn--large .btn--success}
+[Euclidean Geometry](https://medialtriangle.blogspot.com/){: .btn .btn--large .btn--primary}
 
 Students in those courses should follow the links in those buttons above.
 
 <h3>About Office Hours:</h3>
+
+Office Hours for Fall 2020 will be held virtually. An appointment will be required,
+because it is terrible to sit still in front of an empty video call for even an
+hour. I will communicate how this will work with my students and advisees during
+the first week of classes.
+
+<!--
 Office Hours for Fall 2019 are Monday, Tuesday, Thursday from
 3-4:30pm, and Friday 3-4pm.
 
@@ -24,6 +30,8 @@ afternoons, if I am in my office and the door is open, I welcome your visit.
 
 If the late afternoon won't work for you, please get in touch with me by email,
 and we can work something out.
+-->
+
 
 ---
 
